@@ -1,3 +1,9 @@
+/*
+
+task-4-var-1.c worked in Frama-C Magnesium-20151002
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

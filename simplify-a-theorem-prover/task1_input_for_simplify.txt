@@ -33,3 +33,6 @@
 (IFF ( AND A (OR A B)) A)
 ; 12) Закон тождества
 (IFF A A)
+
+additional input:
+(IFF (OR A B) (NOT (AND (NOT A) (NOT B))))

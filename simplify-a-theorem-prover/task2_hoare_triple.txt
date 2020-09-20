@@ -1,3 +1,4 @@
+; I don't think it was done well :)
 (IMPLIES
 ;Q:
 	(AND

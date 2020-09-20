@@ -9,5 +9,3 @@ def count(N, a):
 			K = K + 1
 		i = i + 1
 	return K
-
-# TODO: exceptions
